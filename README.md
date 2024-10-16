@@ -8,7 +8,7 @@ Olá mundo!
 </h1>
 
 <p align="justify"> Olá eu sou a Rebeca e futura Analista e desenvolvedora de sites.
-<br> 
+<br> <p/>
 <!--
 ## 💻 Ferramentas e Tecnologias
 
