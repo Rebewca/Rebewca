@@ -31,7 +31,6 @@ Olá mundo!
   <summary></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="rebewca.github.io/IPD-Rebwca/">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with <a href="https https://github.com/Rebewca">EA</a>.</div>
