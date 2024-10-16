@@ -7,9 +7,7 @@ Olá mundo!
     <span>Rebeca Oliveira</span>
 </h1>
 
-<p align="justify"> Olá eu sou a Rebeca e futura Analista e desenvolvedora de sites.
-<br> <p/>
-<!--
+<p align="justify"> Olá eu sou a Rebeca e futura Analista e desenvolvedora de sites. <p/>
 ## 💻 Ferramentas e Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
