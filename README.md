@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images-encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPUQGq9eoQtMmklF7FGOB2_aQYvOB6ROV4w&s" />
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/seu-usuario/seu-repositorio/raw/main/minha-imagem.png" />
 
 <h1>
     <a href="https://rebewca.github.io/IPD-Rebwca/">
