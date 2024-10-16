@@ -2,10 +2,10 @@
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPUQGq9eoQtMmklF7FGOB2_aQYvOB6ROV4w&s>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images-encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPUQGq9eoQtMmklF7FGOB2_aQYvOB6ROV4w&s" />
 
 <h1>
-    <a href="rebewca.github.io/IPD-Rebwca/">
+    <a href="https://rebewca.github.io/IPD-Rebwca/">
      <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
     <span>Rebeca Oliveira</span>
 </h1>
