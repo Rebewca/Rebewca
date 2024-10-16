@@ -17,7 +17,7 @@ Olá mundo!
 
 ## 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rebewca/profilecard/?igsh=MW1yMHVvYXBtczlndg==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__rebewca/profilecard/?igsh=MW1yMHVvYXBtczlndg==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-oliveira-a5045628b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecapereirawork@gmail.com)
 
