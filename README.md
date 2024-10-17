@@ -23,16 +23,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__rebewca/profilecard/?igsh=MW1yMHVvYXBtczlndg==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-oliveira-a5045628b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecapereirawork@gmail.com)
-
-
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - Developer vector created by <a href="rebewca.github.io/IPD-Rebwca/">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with <a href="https https://github.com/Rebewca">EA</a>.</div>
-
-</details>
-
