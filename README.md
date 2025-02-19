@@ -7,12 +7,12 @@
 <h1>
     <a href="https://rebewca.github.io/IPD-Rebwca/">
      <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Rebeca Oliveira</span>
+    <span> Sobre Mim</span>
 </h1>
 
-<p align="justify"> # 👋 Olá, eu sou a Rebeca!  
+<p align="justify"> 👋 Olá, eu sou a Rebeca! /p>
 
-👩‍💻 **Estudante de Desenvolvimento Web | Front-End Enthusiast**  
+👩‍💻 **Estudante de Desenvolvimento Web | Front-End** 
 📚 Apaixonada por criar interfaces incríveis e funcionais.  
 🎯 Focada em expandir meu conhecimento em Front-End, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.  
 💡 Sempre em busca de novos desafios e oportunidades para crescer na área de Desenvolvimento de Sistemas.  
