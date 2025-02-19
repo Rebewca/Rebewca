@@ -13,9 +13,13 @@
 <p align="justify"> 👋 Olá, eu sou a Rebeca! 
 
 👩‍💻 **Estudante de Desenvolvimento Web | Front-End** 
+
 📚 Apaixonada por criar interfaces incríveis e funcionais.  
+
 🎯 Focada em expandir meu conhecimento em Front-End, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.  
+
 💡 Sempre em busca de novos desafios e oportunidades para crescer na área de Desenvolvimento de Sistemas.  
+
 💬 Aberta a colaborações e novos projetos.   <p/>
     
 ## 💻 Ferramentas e Tecnologias
