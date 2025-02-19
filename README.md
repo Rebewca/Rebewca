@@ -10,7 +10,7 @@
     <span> Sobre Mim</span>
 </h1>
 
-<p align="justify"> 👋 Olá, eu sou a Rebeca! /p>
+<p align="justify"> 👋 Olá, eu sou a Rebeca! 
 
 👩‍💻 **Estudante de Desenvolvimento Web | Front-End** 
 📚 Apaixonada por criar interfaces incríveis e funcionais.  
