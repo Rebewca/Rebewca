@@ -10,7 +10,13 @@
     <span>Rebeca Oliveira</span>
 </h1>
 
-<p align="justify"> Olá eu sou a Rebeca e futura Analista e desenvolvedora de sites. <p/>
+<p align="justify"> # 👋 Olá, eu sou a Rebeca!  
+
+👩‍💻 **Estudante de Desenvolvimento Web | Front-End Enthusiast**  
+📚 Apaixonada por criar interfaces incríveis e funcionais.  
+🎯 Focada em expandir meu conhecimento em Front-End, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.  
+💡 Sempre em busca de novos desafios e oportunidades para crescer na área de Desenvolvimento de Sistemas.  
+💬 Aberta a colaborações e novos projetos.   <p/>
     
 ## 💻 Ferramentas e Tecnologias
 
