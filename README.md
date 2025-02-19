@@ -14,7 +14,7 @@
 
 👩‍💻 **Estudante de Desenvolvimento Web | Front-End** 
 
-📚 Apaixonada por criar interfaces incríveis e funcionais.  
+📚 Apaixonadaa por criar interfaces incríveis e funcionais.  
 
 🎯 Focada em expandir meu conhecimento em Front-End, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.  
 
