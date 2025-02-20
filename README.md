@@ -16,7 +16,7 @@
 
 📚 Apaixonadaa por criar interfaces incríveis e funcionais.  
 
-🎯 Focadaa em expandir meu conhecimento em Front-End, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.  
+🎯 Focada em expandir meu conhecimento em Front-End, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.  
 
 💡 Sempre em busca de novos desafios e oportunidades para crescer na área de Desenvolvimento de Sistemas.  
 
